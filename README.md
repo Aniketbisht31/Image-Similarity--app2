@@ -30,4 +30,4 @@ The JavaFX desktop app sends queries to the Python Flask backend.
 
 Backend returns a list of top similar images, which the frontend displays to the user.
 
-Project Structure
+
